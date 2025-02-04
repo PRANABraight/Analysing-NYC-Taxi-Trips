@@ -83,7 +83,7 @@ The analysis uses NYC yellow taxi trip data in Parquet format:
   - Passenger counts
 
 ## Output Files
-- `converted.csv`: Complete processed dataset
+- `converted.csv`: Converted the parquet file to csv for easy handling of datas
 - `hourly_taxi_stats.csv`: Aggregated hourly statistics
 - `sampled_taxi_data.csv`: Sampled subset for quick analysis
 - `test2.csv`: Added week-days for more in-depth analysis  
