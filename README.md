@@ -1,5 +1,7 @@
 # Analyzing NYC Taxi Trips
 
+![NYC Taxi Analysis Dashboard](assets/bg.jpg)
+
 ## Project Overview
 This project analyzes New York City taxi trip data to uncover patterns in urban mobility, focusing on trip patterns, fares, and passenger behavior. The analysis provides insights into temporal patterns, geographical distributions, and economic aspects of taxi services in NYC.
 
