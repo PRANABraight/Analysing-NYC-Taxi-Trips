@@ -3,7 +3,7 @@ library(ggplot2)
 ### --- ANOVA Analysis ---
 
 
-df <- read.csv("C:\\Users\\prana\\OneDrive\\Desktop\\2trimester\\R\\ETE3\\test2.csv")
+df <- read.csv("test2.csv")
 
 View(df)
 

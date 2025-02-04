@@ -4,7 +4,7 @@ library(ggplot2)
 
 
  # Load your data
-  df <- read.csv("C:\\Users\\prana\\OneDrive\\Desktop\\2trimester\\R\\ETE3\\test2.csv")
+  df <- read.csv("test2.csv")
   
   # Convert pickup datetime
   df$tpep_pickup_datetime <- ymd_hms(df$tpep_pickup_datetime)

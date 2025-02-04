@@ -1,5 +1,7 @@
 # Analyzing NYC Taxi Trips
 
+![NYC Taxi Analysis Dashboard](assets/bg.jpg)
+
 ## Project Overview
 This project analyzes New York City taxi trip data to uncover patterns in urban mobility, focusing on trip patterns, fares, and passenger behavior. The analysis provides insights into temporal patterns, geographical distributions, and economic aspects of taxi services in NYC.
 
@@ -83,7 +85,7 @@ The analysis uses NYC yellow taxi trip data in Parquet format:
   - Passenger counts
 
 ## Output Files
-- `converted.csv`: Complete processed dataset
+- `converted.csv`: Converted the parquet file to csv for easy handling of datas
 - `hourly_taxi_stats.csv`: Aggregated hourly statistics
 - `sampled_taxi_data.csv`: Sampled subset for quick analysis
 - `test2.csv`: Added week-days for more in-depth analysis  
