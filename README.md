@@ -100,4 +100,5 @@ The analysis uses NYC yellow taxi trip data in Parquet format:
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-PS: File imports may not match in the programs. File has been structured after all the analysis and work was done.
+PS1: File imports may not match in the programs. File has been structured after all the analysis and work was done.
+PS2: `yellow_tripdata_2024-09.parquet` and `converted.csv` is not added to the repository becaux=se of its huge file size.
